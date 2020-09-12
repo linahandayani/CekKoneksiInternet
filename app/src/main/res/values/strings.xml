@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CekKoneksiInternet</string>
+    <string name="connected">connected</string>
+    <string name="you_are_connected">you are connected</string>
+</resources>
